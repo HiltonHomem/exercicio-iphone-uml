@@ -1,0 +1,41 @@
++------------------+
+|      IPhone      |
++------------------+
+| + tocarMusica()  |
+| + pausarMusica() |
+| + pararMusica()  |
+| + fazerChamada() |
+| + atenderChamada()|
+| + encerrarChamada()|
+| + exibirPagina() |
+| + adicionarAba() |
+| + atualizarPagina()|
++------------------+
+^        ^       ^
+|        |       |
++--------+-------+
+|        |       |
+V        V       V
++--------------------+
+|  ReprodutorMusical |
++--------------------+
+| + tocarMusica()    |
+| + pausarMusica()   |
+| + pararMusica()    |
++--------------------+
+
++--------------------+
+|  AparelhoTelefonico|
++--------------------+
+| + fazerChamada()   |
+| + atenderChamada() |
+| + encerrarChamada()|
++--------------------+
+
++--------------------+
+|  NavegadorInternet |
++--------------------+
+| + exibirPagina()   |
+| + adicionarAba()   |
+| + atualizarPagina()|
++--------------------+
